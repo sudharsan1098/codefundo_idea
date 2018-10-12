@@ -1,2 +1,3 @@
 # codefundo_idea
-This is my idea submission for codefundo contest
+This is my idea submission for the codefundo contest
+Animals like dogs,bats,etc have always been experts in detecting the occurence of natural disasters such as earthquakes and tsunamis. This is due to the fact that they are more receptive to low frequency sounds called as infrasounds and electro-magnetic field spikes that occur due to rock faults before an earthquake or tsunami. Our idea is to build a sensor which detects infrasounds and Electro-magnetic field variations and compares it to the data recorded previously when an earthquake or tsunami occurred and find patterns in it using machine learning techniques like clustering, pattern recognition, and fractal analysis. An app will be built based on the code which will perform real time predictive analysis based the previous data of natual disasters in the region and indicate the occurrence of forthcoming disasters.
